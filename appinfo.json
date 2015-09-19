@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "florian.widmer@gmail.com",
+    "longName": "basicApp",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "basicApp",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "2795f8ae-e4f9-41d7-a30f-673a8a5aa059",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
